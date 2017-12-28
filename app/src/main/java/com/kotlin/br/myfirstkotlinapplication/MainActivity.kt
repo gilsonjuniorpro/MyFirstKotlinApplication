@@ -6,7 +6,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import org.jetbrains.anko.toast
 
 /**
- * Created by gilsonsantos on 27/12/17.
+ * Created by gilsonjuniorpro on 27/12/17.
  */
 
 class MainActivity : AppCompatActivity() {
